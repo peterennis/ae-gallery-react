@@ -1,0 +1,7 @@
+{
+  "name": "ae-gallery-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
