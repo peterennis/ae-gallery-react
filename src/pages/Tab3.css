@@ -1,0 +1,12 @@
+img {
+  margin-top: 125px;
+  transition: all 1.5s ease;
+  object-fit: width;
+  display: block;
+  width: auto;
+  padding:10px;
+}
+
+img:hover {
+  transform: rotate(180deg);
+}

@@ -11,6 +11,9 @@ const Tab3: React.FC = () => {
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen>
+        <img src="/assets/png/corin-min.png" alt="corin" />
+        <img src="/assets/png/arehta-min.png" alt="arehta" />
+        <img src="/assets/png/raymond-min.png" alt="raymond" />
       </IonContent>
     </IonPage>
   );
