@@ -1,6 +1,6 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "ae-gallery-react",
+  "appId": "com.adaept.moonwalk",
+  "appName": "moonwalk",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",
