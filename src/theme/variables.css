@@ -4,7 +4,7 @@ http://ionicframework.com/docs/theming/ */
 /** Ionic CSS Variables **/
 :root {
   /** primary **/
-  --ion-color-primary: #046307;
+  --ion-color-primary: #046307; /* emerald green */
   --ion-color-primary-rgb: 4, 99, 7;
   --ion-color-primary-contrast: #ffffff;
   --ion-color-primary-contrast-rgb: 255, 255, 255;
@@ -44,7 +44,7 @@ http://ionicframework.com/docs/theming/ */
   --ion-color-warning-tint: #ffca22;
 
   /** danger **/
-  --ion-color-danger: #ed2939;
+  --ion-color-danger: #ed2939; /* imperial red */
   --ion-color-danger-rgb: 237, 41, 57;
   --ion-color-danger-contrast: #ffffff;
   --ion-color-danger-contrast-rgb: 255, 255, 255;
@@ -75,5 +75,5 @@ http://ionicframework.com/docs/theming/ */
   --ion-color-light-shade: #d7d8da;
   --ion-color-light-tint: #f5f6f9;
 
-  --ion-background-color: #d5ffd5;
+  --ion-background-color: #beffc2; /* snowy mint */
 }
