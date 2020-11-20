@@ -1,10 +1,10 @@
 img {
-  margin-top: 125px;
+  margin-top: 0px;
   transition: all 1.5s ease;
   object-fit: width;
   display: block;
   width: auto;
-  padding:10px;
+  padding: 0px;
 }
 
 img:hover {
